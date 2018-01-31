@@ -6,3 +6,6 @@ https://github.com/Erblocker/YRSSF
 
 产品管理
 https://www.akeneo.com/key-features/
+
+
+NideShop：基于Node.js+MySQL开发的开源微信小程序商城 https://nideshop.com/
